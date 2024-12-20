@@ -1,7 +1,7 @@
 # LLVM-BOX
 
 > clang: clang clang++ clang-cl clang-cpp\
-> lld: ld.lld ld64.lld lld lld-link wasm-ld\n
+> lld: ld.lld ld64.lld lld lld-link wasm-ld\
 > llvm-objcopy: llvm-bitcode-strip llvm-install-name-tool llvm-objcopy llvm-strip\
 > llvm-ar: llvm-ar llvm-dlltool llvm-lib llvm-ranlib
 
