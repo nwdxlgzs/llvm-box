@@ -247,7 +247,7 @@ llvm-box clang clang lctype.c linit.c lopcodes.c ltablib.c lapi.c ldblib.c lioli
 
 - `armeabi-v7a`: `--target=armv7a-linux-androideabi`
 - `arm64-v8a`: `--target=aarch64-linux-android`;`--target=aarch64-linux-android -march=armv9.5-a`
-- `x86`: `--target=i686-linux-android -mstackreaalign`
+- `x86`: `--target=i686-linux-android -mstackrealign`
 - `x86_64`: `--target=x86_64-linux-android`
 - `riscv64`: `--target=riscv64-linux-android`
 
